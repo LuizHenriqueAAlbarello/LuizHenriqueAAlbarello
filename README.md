@@ -1,38 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:69140c,100:d32f2f&height=220&section=header&text=Luiz%20Henrique%20A.%20Albarello&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:69140c,100:d32f2f&height=220&section=header&text=Luiz%20Henrique%20A.%20Albarello&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Analysis%20and%20Development&descSize=18&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
 <a href="mailto:luizhenriquealvezalbarello@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/luiz-henrique-alves-albarello-82297b410/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/LuizHenriqueAAlbarello">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 <br>
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e tenho interesse em desenvolvimento de software e tecnologia.
+I'm a **Systems Analysis and Development student** interested in software development and technology.
 
-Tenho conhecimentos em **Java e Python**, além de **JavaScript, HTML e CSS**. Também trabalho com bancos de dados como **Oracle e PostgreSQL**.
+I have knowledge of **Java and Python**, as well as **JavaScript, HTML and CSS**. I also have experience with databases, mainly **Oracle and PostgreSQL**.
 
-Atualmente estou aprendendo **React e TypeScript** e explorando diferentes áreas do desenvolvimento de software.
+I'm currently learning **React and TypeScript**, expanding my knowledge of modern web development and application development.
 
-Tenho interesse tanto em **backend quanto em frontend** e gosto de entender como diferentes tecnologias trabalham juntas para criar soluções práticas.
+I'm interested in both **backend and frontend development** and enjoy learning how different technologies work together to build practical solutions.
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Currently Learning
 
 <div align="center">
 
@@ -40,13 +40,13 @@ Tenho interesse tanto em **backend quanto em frontend** e gosto de entender como
 
 <br><br>
 
-**React • TypeScript • Desenvolvimento Web**
+**React • TypeScript • Modern Web Development**
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -60,45 +60,11 @@ Tenho interesse tanto em **backend quanto em frontend** e gosto de entender como
 
 ---
 
-## 🔭 No que estou trabalhando
+### Thanks for visiting my profile! 🚀
 
-* Desenvolvendo projetos para melhorar minhas habilidades
-* Aprendendo **React** e **TypeScript**
-* Aprofundando meus conhecimentos em bancos de dados
-* Explorando desenvolvimento backend e frontend
-* Transformando ideias em projetos práticos
+<br>
 
----
-
-## 🚀 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/LuizHenriqueAAlbarello/soul-up-challenge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizHenriqueAAlbarello&repo=soul-up-challenge&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/LuizHenriqueAAlbarello/orbitagroCopilot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizHenriqueAAlbarello&repo=orbitagroCopilot&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/LuizHenriqueAAlbarello/apresentacao-lei-14831">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizHenriqueAAlbarello&repo=apresentacao-lei-14831&theme=github_dark&hide_border=true"/>
-</a>
-
-</div>
-
----
-
-## 💡 Interesses
-
-**Desenvolvimento de Software • Backend • Frontend • Bancos de Dados • Desenvolvimento Web**
-
----
-
-<div align="center">
-
-### Obrigado por visitar meu perfil! 🚀
+<img src="https://komarev.com/ghpvc/?username=LuizHenriqueAAlbarello&style=flat-square&color=d32f2f&label=PROFILE+VIEWS"/>
 
 </div>
 
