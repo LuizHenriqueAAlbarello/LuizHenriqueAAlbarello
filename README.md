@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="./banner.gif" width="100%">
+<img src="./assets/banner.gif" width="100%">
 
-</div>
-
-<div align="center">
+<br><br>
 
 # Luiz Henrique A. Albarello
 
