@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/baner.jfif" width="100%">
+<img src="./assets/baner.jfif" width="20%">
 
 <br><br>
 
