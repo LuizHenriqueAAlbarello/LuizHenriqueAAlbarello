@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="./banner.jfif" width="100%">
+
+</div>
+
+<div align="center">
+
 # Luiz Henrique A. Albarello
 
 ### Análise e Desenvolvimento de Sistemas
