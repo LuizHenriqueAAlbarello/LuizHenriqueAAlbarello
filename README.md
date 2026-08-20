@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/baner.jfif" width="20%">
+<img src="./assets/banner.gif" width="100%">
 
 <br><br>
 
@@ -38,9 +38,11 @@ Tenho interesse em diferentes áreas do desenvolvimento e gosto de entender como
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts" height="55"/>
+<img src="https://skillicons.dev/icons?i=react,ts" height="55">
 
 </div>
+
+<br>
 
 ---
 
@@ -48,7 +50,7 @@ Tenho interesse em diferentes áreas do desenvolvimento e gosto de entender como
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,ts,git,github,vscode,idea,postgres" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,ts,git,github,vscode,idea,postgres">
 
 <br><br>
 
