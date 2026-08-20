@@ -50,7 +50,7 @@ I'm interested in both **backend and frontend development** and enjoy learning h
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,ts,git,github,vscode,idea,postgres" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,ts,git,github,vscode,idea,postgres"/>
 
 <br><br>
 
@@ -84,25 +84,25 @@ I'm interested in both **backend and frontend development** and enjoy learning h
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueAAlbarello&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+<a href="https://github.com/LuizHenriqueAAlbarello">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueAAlbarello&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+
+</a>
 
 </div>
 
-<br>
+---
 
 ## 💻 Most Used Languages
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueAAlbarello&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<a href="https://github.com/LuizHenriqueAAlbarello">
 
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizHenriqueAAlbarello&layout=compact&theme=github_dark&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"/>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=LuizHenriqueAAlbarello&theme=github-dark-blue&hide_border=true"/>
+</a>
 
 </div>
 
@@ -110,16 +110,18 @@ I'm interested in both **backend and frontend development** and enjoy learning h
 
 <div align="center">
 
+### Thanks for visiting my profile! 🚀
+
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=LuizHenriqueAAlbarello&style=flat-square&color=d32f2f&label=PROFILE+VIEWS"/>
-
-<br><br>
-
-Thanks for visiting my profile! 🚀
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0: d32f2f,50:69140c,100:0d1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d32f2f,50:69140c,100:0d1117&height=100&section=footer"/>
 
 </div>
