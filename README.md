@@ -1,92 +1,84 @@
 <div align="center">
 
-# 👨‍💻 Luiz Henrique A. Albarello
+# Luiz Henrique A. Albarello
 
-### 🎓 Análise e Desenvolvimento de Sistemas
+### Análise e Desenvolvimento de Sistemas
 
-**Java • Python • JavaScript • React • TypeScript • Bancos de Dados**
+**Java • Python • JavaScript • React • TypeScript • Oracle • PostgreSQL**
 
 <br>
 
 <a href="https://github.com/LuizHenriqueAAlbarello">
-<img src="https://img.shields.io/badge/GitHub-LuizHenriqueAAlbarello-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://github.com/LuizHenriqueAAlbarello?tab=repositories">
-<img src="https://img.shields.io/badge/Projetos-1f6feb?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/PROJETOS-1f6feb?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
----
-
-## 👋 Sobre mim
-
-Sou **Luiz Henrique A. Albarello**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia e desenvolvimento de software.
-
-Tenho interesse em diferentes áreas do desenvolvimento, buscando construir uma base sólida tanto em **backend quanto em frontend**, além de conhecimentos em bancos de dados.
-
-Tenho experiência acadêmica e prática com **Java, Python, JavaScript, HTML e CSS**, além de trabalhar com bancos de dados como **Oracle e PostgreSQL**.
-
-Atualmente, estou expandindo meus conhecimentos em **React e TypeScript**, buscando desenvolver aplicações cada vez mais completas e bem estruturadas.
-
-> 🎯 **Meu objetivo é evoluir como desenvolvedor, unir diferentes tecnologias e transformar problemas reais em soluções através da programação.**
+<br>
 
 ---
 
-## 🧠 Atualmente estudando
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto de aprender na prática através do desenvolvimento de projetos.
+
+Tenho conhecimentos em **Java e Python**, além de trabalhar com **JavaScript, HTML e CSS**. Também possuo conhecimentos em bancos de dados, principalmente **Oracle e PostgreSQL**.
+
+Atualmente estou estudando **React e TypeScript**, buscando ampliar meus conhecimentos e entender melhor o desenvolvimento de aplicações completas, tanto no backend quanto no frontend.
+
+Gosto de explorar diferentes tecnologias e entender como elas se conectam para resolver problemas e criar aplicações.
+
+---
+
+## 📚 Atualmente estudando
+
+* React
+* TypeScript
+* Desenvolvimento de aplicações web
+* Integração entre frontend e backend
+* Boas práticas de desenvolvimento
+
+---
+
+## 🛠️ Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts" />
+### Backend
 
-</div>
+<img src="https://skillicons.dev/icons?i=java,python" height="65"/>
+
+<br><br>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts" height="65"/>
+
+<br><br>
+
+### Banco de dados
+
+<img src="https://skillicons.dev/icons?i=postgres" height="65"/>
 
 <br>
 
-* ⚛️ React
-* 🔷 TypeScript
-* 🏗️ Arquitetura e organização de aplicações
-* 🔌 Integração entre frontend e backend
-* 📚 Boas práticas de desenvolvimento
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### ☕ Backend & Programming
-
-<img src="https://skillicons.dev/icons?i=java,python,js" />
+**Oracle • PostgreSQL**
 
 <br><br>
 
-### 🌐 Frontend
+### Ferramentas
 
-<img src="https://skillicons.dev/icons?i=html,css,react,ts" />
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgresql" />
-
-<br>
-
-**Oracle Database • PostgreSQL**
-
-<br><br>
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" height="65"/>
 
 </div>
 
 ---
 
-# 🚀 Projetos em destaque
+## 📌 Projetos em destaque
 
 <div align="center">
 
@@ -97,16 +89,12 @@ Atualmente, estou expandindo meus conhecimentos em **React e TypeScript**, busca
 
 ### 🖼️ Galeria 2026
 
-Projeto web desenvolvido para trabalhar conceitos de estruturação e apresentação de conteúdo.
-
-**Stack**
-
-`HTML` `CSS`
+Projeto web desenvolvido para praticar estruturação e estilização de páginas.
 
 <br>
 
 <a href="https://github.com/LuizHenriqueAAlbarello/galeria_2026">
-<img src="https://img.shields.io/badge/Ver%20Projeto-1f6feb?style=for-the-badge&logo=github">
+Ver projeto →
 </a>
 
 </td>
@@ -115,16 +103,12 @@ Projeto web desenvolvido para trabalhar conceitos de estruturação e apresenta�
 
 ### 🚀 Soul Up Challenge
 
-Projeto desenvolvido como desafio prático, colocando em prática conceitos de desenvolvimento web e construção de interfaces.
-
-**Stack**
-
-`HTML` `CSS`
+Projeto desenvolvido durante um desafio prático de desenvolvimento.
 
 <br>
 
 <a href="https://github.com/LuizHenriqueAAlbarello/soul-up-challenge">
-<img src="https://img.shields.io/badge/Ver%20Projeto-1f6feb?style=for-the-badge&logo=github">
+Ver projeto →
 </a>
 
 </td>
@@ -133,16 +117,12 @@ Projeto desenvolvido como desafio prático, colocando em prática conceitos de d
 
 ### 🌱 Órbita Agro
 
-Projeto desenvolvido utilizando tecnologias web e JavaScript, com foco em uma aplicação mais dinâmica e interativa.
-
-**Stack**
-
-`JavaScript` `HTML` `CSS`
+Projeto web utilizando JavaScript e outras tecnologias para desenvolvimento de aplicações.
 
 <br>
 
 <a href="https://github.com/LuizHenriqueAAlbarello/orbitagroCopilot">
-<img src="https://img.shields.io/badge/Ver%20Projeto-1f6feb?style=for-the-badge&logo=github">
+Ver projeto →
 </a>
 
 </td>
@@ -154,105 +134,22 @@ Projeto desenvolvido utilizando tecnologias web e JavaScript, com foco em uma ap
 
 ---
 
-# 💻 Conhecimentos
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Categoria                | Tecnologias                |
-| ------------------------ | -------------------------- |
-| ☕ Linguagens             | Java • Python • JavaScript |
-| 🌐 Web                   | HTML • CSS • JavaScript    |
-| ⚛️ Atualmente aprendendo | React • TypeScript         |
-| 🗄️ Banco de dados       | Oracle • PostgreSQL        |
-| 🔧 Versionamento         | Git • GitHub               |
-| 💻 IDE / Ferramentas     | VS Code • IntelliJ IDEA    |
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueAAlbarello&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueAAlbarello&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueAAlbarello&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizHenriqueAAlbarello&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 📚 Minha jornada
-
-```text
-                    DESENVOLVIMENTO
-                          │
-            ┌─────────────┴─────────────┐
-            │                           │
-        BACKEND                      FRONTEND
-            │                           │
-      ┌─────┴─────┐                ┌────┴────┐
-      │           │                │         │
-     Java       Python          JavaScript   React
-      │           │                │         │
-      └─────┬─────┘                └────┬────┘
-            │                           │
-            └───────────┬───────────────┘
-                        │
-                   TypeScript
-                   (estudando)
-                        │
-                        ▼
-                  APLICAÇÕES
-                    COMPLETAS
-                        │
-                        ▼
-                🚀 EVOLUÇÃO CONSTANTE
-```
-
----
-
-# 🎯 Objetivos
-
-* 📚 Aprofundar meus conhecimentos em **Java e Python**
-* ⚛️ Evoluir em **React e TypeScript**
-* 🗄️ Aprimorar conhecimentos em **bancos de dados**
-* 🔌 Aprender cada vez mais sobre integração entre sistemas
-* 🏗️ Desenvolver aplicações completas
-* 💼 Conquistar experiência profissional na área de tecnologia
-* 🚀 Continuar evoluindo como desenvolvedor
-
----
-
-# 📫 Contato
-
-<div align="center">
-
-<a href="https://github.com/LuizHenriqueAAlbarello">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
 ---
 
 <div align="center">
 
-### 🚀 Sempre aprendendo. Sempre construindo.
+### Obrigado por visitar meu perfil! 🚀
 
-*"Código é apenas uma ferramenta. O objetivo é transformar ideias em soluções."*
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=LuizHenriqueAAlbarello&color=1f6feb&style=for-the-badge&label=VISITAS+NO+PERFIL">
+<img src="https://komarev.com/ghpvc/?username=LuizHenriqueAAlbarello&style=flat-square&color=1f6feb&label=VISITAS+NO+PERFIL">
 
 </div>
